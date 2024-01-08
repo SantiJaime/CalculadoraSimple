@@ -37,7 +37,7 @@ const App = () => {
   };
   return (
     <Container fluid className="d-flex justify-content-center mt-3">
-      <div className="bg-dark rounded-3 w-25 p-4">
+      <div className="bg-dark rounded-3 w-50 p-4">
         <Row>
           <Col sm={12} className="mb-3">
             <div className="display rounded-3">
